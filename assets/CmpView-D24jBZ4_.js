@@ -1,0 +1,1 @@
+import{l as e,o as t,t as n,x as r}from"./_plugin-vue_export-helper-2dm0zVuG.js";function i(n,i){return r(),e(`main`,null,[...i[0]||=[t(`h1`,null,`Cmp description`,-1)]])}var a=n({},[[`render`,i]]);export{a as default};
